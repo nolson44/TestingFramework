@@ -1,0 +1,4 @@
+Python timing methods:
+
+import time
+import timeit
