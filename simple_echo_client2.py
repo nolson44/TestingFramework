@@ -12,4 +12,4 @@ s.send(content)
 data = s.recv(1024)
 s.close()
 file1.close()
-print 'Received', repr(data)
+print 'Received', data
